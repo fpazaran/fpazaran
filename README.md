@@ -24,7 +24,7 @@ I enjoy working in fast-paced engineering environments where I can learn quickly
 challenging problems, and build systems with measurable impact.
 
 * Currently developing [nearish](https://www.github.com/fpazaran/nearish)
-* Currently learning:
-  * CSE 451: Operating Systems
-  * CSE 444: Database Internals
-  * CSE 484: Computer Security
+# Currently learning:
+* CSE 451: Operating Systems
+* CSE 444: Database Internals
+* CSE 484: Computer Security
