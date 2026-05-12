@@ -35,9 +35,9 @@ challenging problems, and build systems with measurable impact.
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `Java` `JavaScript` `TypeScript` `Python` `C++` `C` `SQL` |
+| **Languages** | `Python` `SQL` `TypeScript` `C` `JavaScript` `Java` `C++` |
 | **Frontend** | `React` `TypeScript` `TailwindCSS` |
-| **Backend** | `FastAPI` `Node.js` `REST APIs` `JDBC` |
-| **Database** | `PostgreSQL` `pgvector` `Firestore` `AWS RDS` |
+| **Backend** | `FastAPI` `Node.js` `JDBC` |
+| **Database** | `PostgreSQL` `pgvector` `AWS RDS` |
 | **Infrastructure** | `AWS S3` `Firebase Auth` `Docker` `Kubernetes` `Git` `CI/CD` `Linux` |
 | **Systems** | `Multithreading` `TCP/IP` `Sockets` `Paxos` `gdb` `Valgrind` |
