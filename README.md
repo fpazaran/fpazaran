@@ -24,7 +24,6 @@ I enjoy working in fast-paced engineering environments where I can learn quickly
 challenging problems, and build systems with measurable impact.
 
 * Currently developing [nearish](https://www.github.com/fpazaran/nearish)
-* 
 
 ### Currently learning:
 * CSE 451: Operating Systems
